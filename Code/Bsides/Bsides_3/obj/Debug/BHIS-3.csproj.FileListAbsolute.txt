@@ -1,0 +1,5 @@
+C:\DEV\OffensiveWindowsEventLogs\BHIS-3\bin\Debug\BHIS_3.exe
+C:\DEV\OffensiveWindowsEventLogs\BHIS-3\bin\Debug\BHIS_3.pdb
+C:\DEV\OffensiveWindowsEventLogs\BHIS-3\obj\Debug\BHIS-3.csproj.CoreCompileInputs.cache
+C:\DEV\OffensiveWindowsEventLogs\BHIS-3\obj\Debug\BHIS_3.exe
+C:\DEV\OffensiveWindowsEventLogs\BHIS-3\obj\Debug\BHIS_3.pdb

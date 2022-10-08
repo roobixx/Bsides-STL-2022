@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsides_1", "Bsides_1\Bsides_1.csproj", "{E9727012-3690-4035-89F9-954003C1B39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsides_2", "Bsides_2\Bsides_2.csproj", "{7C1F2BCC-E5D4-40E2-861A-19D953912BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsides_3", "Bsides_3\Bsides_3.csproj", "{40C19595-DBE7-4003-8B78-158A5EE5B280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9727012-3690-4035-89F9-954003C1B39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9727012-3690-4035-89F9-954003C1B39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9727012-3690-4035-89F9-954003C1B39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9727012-3690-4035-89F9-954003C1B39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1F2BCC-E5D4-40E2-861A-19D953912BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1F2BCC-E5D4-40E2-861A-19D953912BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1F2BCC-E5D4-40E2-861A-19D953912BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1F2BCC-E5D4-40E2-861A-19D953912BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C19595-DBE7-4003-8B78-158A5EE5B280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C19595-DBE7-4003-8B78-158A5EE5B280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C19595-DBE7-4003-8B78-158A5EE5B280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C19595-DBE7-4003-8B78-158A5EE5B280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F534AF9D-921D-41BB-BDCC-C881D349538A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\rbx\Documents\Bsides\Bsides_3\bin\Debug\Bsides_3.exe
+C:\Users\rbx\Documents\Bsides\Bsides_3\bin\Debug\Bsides_3.pdb
+C:\Users\rbx\Documents\Bsides\Bsides_3\obj\Debug\Bsides_3.csproj.AssemblyReference.cache
+C:\Users\rbx\Documents\Bsides\Bsides_3\obj\Debug\Bsides_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbx\Documents\Bsides\Bsides_3\obj\Debug\Bsides_3.csproj.CoreCompileInputs.cache
+C:\Users\rbx\Documents\Bsides\Bsides_3\obj\Debug\Bsides_3.exe
+C:\Users\rbx\Documents\Bsides\Bsides_3\obj\Debug\Bsides_3.pdb

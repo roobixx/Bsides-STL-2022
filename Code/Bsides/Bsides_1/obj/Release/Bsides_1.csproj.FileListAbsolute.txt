@@ -1,0 +1,6 @@
+C:\Users\rbx\Documents\Bsides\Bsides_1\bin\Release\Bsides_1.exe.config
+C:\Users\rbx\Documents\Bsides\Bsides_1\bin\Release\Bsides_1.exe
+C:\Users\rbx\Documents\Bsides\Bsides_1\obj\Release\Bsides_1.csproj.AssemblyReference.cache
+C:\Users\rbx\Documents\Bsides\Bsides_1\obj\Release\Bsides_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbx\Documents\Bsides\Bsides_1\obj\Release\Bsides_1.csproj.CoreCompileInputs.cache
+C:\Users\rbx\Documents\Bsides\Bsides_1\obj\Release\Bsides_1.exe

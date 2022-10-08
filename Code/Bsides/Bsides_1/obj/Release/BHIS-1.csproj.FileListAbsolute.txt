@@ -1,0 +1,4 @@
+C:\DEV\OffensiveWindowsEventLogs\BHIS-1\obj\Release\BHIS-1.csproj.CoreCompileInputs.cache
+C:\DEV\OffensiveWindowsEventLogs\BHIS-1\bin\Release\Bsides_1.exe.config
+C:\DEV\OffensiveWindowsEventLogs\BHIS-1\bin\Release\Bsides_1.exe
+C:\DEV\OffensiveWindowsEventLogs\BHIS-1\obj\Release\Bsides_1.exe
